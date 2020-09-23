@@ -1,2 +1,2 @@
 * linguist-vendored
-*.docx linguist-vendored=false
+*.sql linguist-language=SQL
