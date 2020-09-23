@@ -1,3 +1,4 @@
 # Database-DataGrip
-Database course of FMI. Simple hospital architecture.
-More information in TestMed_docx
+        Simple hospital architecture.
+Database course of FMI. 
+More information in "TestMed_docx".
